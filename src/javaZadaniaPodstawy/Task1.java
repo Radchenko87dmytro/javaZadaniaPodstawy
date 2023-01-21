@@ -20,7 +20,7 @@ public class Task1 {
 
     }
 
-    private static void displayWordUsingDecimalFormat() {
+    private static void displayWordUsingBinary() {
         char s = 0b01010011;
         char d =0b01000100;
 
